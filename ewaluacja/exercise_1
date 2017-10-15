@@ -1,0 +1,8 @@
+<pre>
+<?php
+
+$arrayanimals=array('pies' => 'burek', 'kot' => 'mruczek');
+
+print_r($arrayanimals);
+
+ ?>
